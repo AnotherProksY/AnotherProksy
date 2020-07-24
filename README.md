@@ -1,3 +1,6 @@
+### SYSOPS at [QIWI](https://qiwi.com) 🥝
+### [Atlassian](https://atlassian.com) Products 🖥
+### Python + Bash + Vim + Tmux ❤️
 ### Hi there 👋
 
 <!--
