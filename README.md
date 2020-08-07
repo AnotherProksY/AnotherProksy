@@ -7,9 +7,9 @@
 
 <br />
 
-<img alt="AnotherProksY Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnotherProksY&show_icons=true&hide_border=true&hide=stars" />
+<img alt="AnotherProksY Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherProksY&layout=compact&hide_border=true" />
 
-<img alt="AnotherProksY Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherProksY&layout=compact" />
+<img alt="AnotherProksY Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnotherProksY&show_icons=true&hide_border=true&hide=stars" />
 
 ---
 
