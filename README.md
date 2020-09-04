@@ -2,7 +2,7 @@
 
 - SYSOPS at [QIWI](https://qiwi.com) 🥝
 - [Atlassian](https://atlassian.com) Products 🖥
-- Python + Fish + NeoVim + Tmux == ❤️
+- Python + Zsh + Vim + Tmux == ❤️
 - 🌱 I’m currently learning everything
 
 <br />
