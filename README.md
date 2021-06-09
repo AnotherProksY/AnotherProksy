@@ -1,7 +1,6 @@
 ### Hi there, I'm Kamil 👋
 
-- SYSOPS at [QIWI](https://qiwi.com) 🥝
-- [Atlassian](https://atlassian.com) Products 🖥
+- [Atlassian](https://atlassian.com) Guru 🖥
 - Python + Zsh + Vim + Tmux == ❤️
 - 🌱 I’m currently learning everything
 
